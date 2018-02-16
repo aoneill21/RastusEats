@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	color: gray;
+	text-decoration: none;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 17px;
+	text-align: center;
+}
+
+.topnav {
+	overflow: hidden;
+	background-color: gray;
+}
+
+.topnav a {
+	color: white;
+	text-decoration: none;
+	padding: 16px 18px;
+	float: left;
+	text-align: center;
+	align-content: center;
+}
+
+.topnav a:hover {
+	background-color: silver;
+	color: black;
+}
+
+.title {
+	background-color: silver;
+	color: black;
+	opacity: 0.4;
+}
+
+ul {
+	background-color: gray;
+	color: silver;
+	opacity: 0.6;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+	color: red;
+}
